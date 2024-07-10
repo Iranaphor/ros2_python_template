@@ -3,7 +3,7 @@
 <package format="3">
   <name>ros2_template</name>
   <version>0.0.1</version>
-  <description>The ros2 template package</description>
+  <description>The ros2_template package</description>
 
   <maintainer email="primordia@live.com">james</maintainer>
   <license>TODO: License declaration</license>
