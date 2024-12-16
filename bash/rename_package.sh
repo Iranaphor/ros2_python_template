@@ -1,8 +1,7 @@
 path=$(dirname $0)/..
 new_name=$1
 
-echo $path
-echo $new_name
+echo "Renaming package to $new_name"
 
 if [ -n "$new_name" ] ; then
 
